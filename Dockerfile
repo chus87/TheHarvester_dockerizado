@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 MAINTAINER chus87
 
 WORKDIR /etc
